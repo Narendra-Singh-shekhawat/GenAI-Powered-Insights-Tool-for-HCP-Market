@@ -40,7 +40,6 @@ MR docs retrieved: 3
 Doctor IDs: ['HCP_005', 'HCP_008', 'HCP_004', 'HCP_002', 'HCP_001']
 ```
 
-> Note: The original engine output also included an internal `<think>` reasoning block. That block is intentionally omitted here to keep the repository presentation clean and professional while still showing the real answer format and debug trace.
 
 ---
 
