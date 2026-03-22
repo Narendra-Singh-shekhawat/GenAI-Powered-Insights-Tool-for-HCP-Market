@@ -1,0 +1,9 @@
+Doctor_ID: HCP_003
+Doctor: Dr. Vikram Rao
+Specialty: General Physician
+Region: India
+Date: 2025-01
+Product: GlucoX
+
+Transcript:
+"I am not very familiar with GlucoX. I haven't received enough educational material or rep visits explaining its benefits."

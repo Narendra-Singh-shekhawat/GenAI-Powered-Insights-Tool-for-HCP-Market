@@ -1,0 +1,9 @@
+Doctor_ID: HCP_004
+Doctor: Dr. Sneha Iyer
+Specialty: Endocrinologist
+Region: India
+Date: 2025-02
+Product: GlucoX
+
+Transcript:
+"I prefer prescribing CompetitorDrug because I have more experience with it and trust its safety profile."

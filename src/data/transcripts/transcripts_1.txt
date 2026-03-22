@@ -1,0 +1,9 @@
+Doctor_ID: HCP_001
+Doctor: Dr. Rakesh Sharma
+Specialty: Endocrinologist
+Region: India
+Date: 2025-01
+Product: GlucoX
+
+Transcript:
+"I find GlucoX effective in controlling HbA1c levels, but most of my patients cannot afford it long term. Cost is a major barrier. Also, insurance coverage is limited."

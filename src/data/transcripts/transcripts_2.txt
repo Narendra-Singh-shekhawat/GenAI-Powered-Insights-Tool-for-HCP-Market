@@ -1,0 +1,9 @@
+Doctor_ID: HCP_002
+Doctor: Dr. Anjali Mehta
+Specialty: Endocrinologist
+Region: India
+Date: 2025-02
+Product: GlucoX
+
+Transcript:
+"I am slightly concerned about the long-term cardiovascular safety data. Until more evidence is available, I prefer sticking to older therapies."
